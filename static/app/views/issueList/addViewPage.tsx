@@ -254,6 +254,7 @@ const Suggestion = styled('li')`
 
   &:hover {
     cursor: pointer;
+    border-bottom-color: transparent;
   }
 
   &:hover .data-actions-wrapper {
